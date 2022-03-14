@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/tarefas",
+  "description": "App para gestão de tarefas",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "eduardo",
+      "email": "eduardodahmer99@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+     "App\\": "App/"
+    }
+  },
+  "require": {
+    "ext-pdo": "*"
+  }
+}

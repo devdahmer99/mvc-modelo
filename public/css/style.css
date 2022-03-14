@@ -1,0 +1,10 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container-form-login {
+    display:flex;
+    justify-content: center;
+    margin-top:70px;
+}
